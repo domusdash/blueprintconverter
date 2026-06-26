@@ -3,6 +3,8 @@ region: nyc
 domains:
 - domain: blueprintconverter.com
   type: PRIMARY
+- domain: www.blueprintconverter.com
+  type: ALIAS
 ingress:
   rules:
   - component:
